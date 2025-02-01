@@ -13,7 +13,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/loan-app-frontend.git
-   cd loan-app-test
+   cd loan-application
    ```
 2. Install dependencies:
    ```sh
